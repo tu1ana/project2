@@ -1,2 +1,2 @@
 def moo():
-    pass
+    return True
